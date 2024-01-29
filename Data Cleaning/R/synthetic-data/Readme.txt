@@ -5,7 +5,7 @@ brand, combining multiple datasets, preprocessing, and conducting insightful ana
 
 Assigned Role and Brand Selection:
 My role was to act as a data analyst for one of the following brands: Woolworths, a major Australian grocery chain; Bunnings, 
-a major hardware retailer; or Uber, a market leader in ride-sharing. I chose to focus on [Brand Name/Company Name], and 
+a major hardware retailer; or Uber, a market leader in ride-sharing. I chose to focus on Bunnings hardware retailer, and 
 throughout the project, I aimed to simulate data representative of the brand's operations and customer interactions.
 
 Key Tasks and Deliverables:
